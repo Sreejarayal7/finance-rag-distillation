@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+student_model/
+faiss_index.bin
+raw_filings/
